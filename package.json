@@ -1,0 +1,12 @@
+{
+  "name": "rb-bike-unc-2-faq-page-hg-prod",
+  "version": "1.0.0",
+  "description": "Render bug bounty demonstration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
